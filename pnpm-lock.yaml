@@ -29,6 +29,9 @@ importers:
       mime-types:
         specifier: ^2.1.27
         version: 2.1.35
+      node-schedule:
+        specifier: ^2.1.1
+        version: 2.1.1
       react:
         specifier: ^18.0.0
         version: 18.3.1
