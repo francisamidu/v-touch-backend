@@ -6,3 +6,4 @@
 #   - sharp
 
 dangerouslyAllowAllBuilds: true
+ignorePatchFailures: true
